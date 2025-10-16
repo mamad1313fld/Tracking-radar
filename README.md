@@ -92,4 +92,4 @@ Detects objects via **ultrasonic sensor (HC-SR04)** and displays them on a live 
 ---
 
 ### 🌐 Created by: Mohammad Amin Foldae  
-GitHub: [github.com/mamadgodmode](https://github.com/mamadgodmode)
+GitHub: [github.com/mamad1313fld](https://github.com/mamad1313fld)
